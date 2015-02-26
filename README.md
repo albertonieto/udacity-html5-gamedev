@@ -1,4 +1,4 @@
-html5-udacity
+udacity-html5-gamedev
 =============
 
 HTML5 Game Development
