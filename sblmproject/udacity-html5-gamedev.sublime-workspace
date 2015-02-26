@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style=  (attribute)"
+			],
+			[
+				"ex",
+				"existingUser"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"margin",
+				"margin-bottom:   (property)"
+			],
+			[
+				"marg",
+				"margin-bottom:   (property)"
+			],
+			[
+				"arra",
+				"array_multisort"
+			],
+			[
+				"surv",
+				"survey_options  (variable)"
+			],
+			[
+				"sur",
+				"survey_options  (variable)"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"clie",
+				"client_id"
+			],
+			[
+				"users",
+				"users_roles"
+			],
+			[
+				"req",
+				"reqPath"
+			],
+			[
+				"pd",
+				"pdf_path  (variable)"
+			],
+			[
+				"C",
+				"Co-worker"
+			],
+			[
+				"color",
+				"colorsuperior"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"cli",
+				"client_id"
+			],
+			[
+				"padd",
+				"padding-top:   (property)"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-bottom:   (property)"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"th",
+				"thnk_tmpl"
+			],
+			[
+				"US",
+				"USER_THNK_ADMIN"
+			],
+			[
+				"THNK",
+				"THNKParticipant"
+			],
+			[
+				"imp",
+				"impact"
+			],
+			[
+				"use",
+				"userEmail"
+			],
+			[
+				"cl",
+				"clientOfTest"
+			],
+			[
+				"part",
+				"participant"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"CO",
+				"CO-WORKER"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"split",
+				"split_resp"
+			],
+			[
+				"err",
+				"errorsRightHeight"
+			],
+			[
+				"sort",
+				"sort_column"
+			],
+			[
+				"erro",
+				"errorsRight"
+			],
+			[
+				"ids",
+				"idsInPDF"
+			],
+			[
+				"my",
+				"myarray"
+			],
+			[
+				"ins",
+				"insertSQL"
+			],
+			[
+				"m",
+				"myarray"
+			],
+			[
+				"hasRole",
+				"hasRoleInClient"
+			],
+			[
+				"mys",
+				"mysqli"
+			],
+			[
+				"id",
+				"idChecker  (variable)"
+			],
+			[
+				"USER",
+				"USER_THNK_ADMIN"
+			],
+			[
+				"tot",
+				"tot_quest"
+			],
+			[
+				"client",
+				"client_id"
+			],
+			[
+				"ec",
+				"echoing"
+			],
+			[
+				"clien",
+				"client_id"
+			],
+			[
+				"U",
+				"USER_THNK_ADMIN"
+			],
+			[
+				"USER_CLIENT",
+				"USER_CLIENT_COACH"
+			],
+			[
+				"USE",
+				"USER_CLIENT"
+			],
+			[
+				"has",
+				"hasRole"
+			],
+			[
+				"company",
+				"companyName"
+			],
+			[
+				"v",
+				"value2  (variable)"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"che",
+				"checkBox"
+			],
+			[
+				"usr",
+				"user"
+			],
+			[
+				"ty",
+				"typeField"
+			],
+			[
+				"compa",
+				"company"
+			],
+			[
+				"pdf",
+				"pdfArray"
+			],
+			[
+				"backgr",
+				"background-color:   (property)"
+			],
+			[
+				"tes",
+				"test_question"
+			],
+			[
+				"font-",
+				"font-size:   (property)"
+			],
+			[
+				"in",
+				"inline-block  (value)"
+			],
+			[
+				"backgro",
+				"background-color:   (property)"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"prog",
+				"program_options"
+			],
+			[
+				"Tes",
+				"Teststatus"
+			],
+			[
+				"logg",
+				"loggedInUser"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"sele",
+				"selected_test"
+			],
+			[
+				"respo",
+				"respondents_score"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"se",
+				"selected_test"
+			],
+			[
+				"l",
+				"loggedUser"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"test",
+				"test_id"
+			],
+			[
+				"margin-",
+				"margin-top:   (property)"
+			],
+			[
+				"te",
+				"test_reminder"
+			],
+			[
+				"passw",
+				"passwordReset"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"userId",
+				"userId"
+			],
+			[
+				"you",
+				"youbetterthnk"
+			],
+			[
+				"root",
+				"root"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"page",
+				"pageTag"
+			],
+			[
+				"ur",
+				"url_cat_php"
+			],
+			[
+				"as",
+				"asdasd"
+			],
+			[
+				"parents",
+				"parentscategory"
+			],
+			[
+				"par",
+				"parentscategoryID"
+			],
+			[
+				"categor",
+				"category_url"
+			],
+			[
+				"ne",
+				"news-tag"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"fons",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alberto/Git/udacity-html5-gamedev"
+	],
+	"file_history":
+	[
+		"/C/Users/Alberto/.bashrc",
+		"/c/Users/Alberto/Git/udacity-html5-gamedev/README.md",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/test/thanks_form_thnk.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/template_main_thnkwebsite.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/template_main.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/template_main_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder/4.9.13 Coaching & Mentoring/page_basic.html",
+		"/C/Users/Alberto/Git/dev360/public_html/media/css/global.css",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder/4.9.12 THNK.org/4.9.12.3 Programs/4.9.12.3.2 SCSS/program-landing-NO_CSS_v20150224.html",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder/4.9.12 THNK.org/4.9.12.3 Programs/4.9.12.3.2 SCSS/program_landing_inline_css.html",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/sass/_program-landing.scss",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/sass/style.scss",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/style.css",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/build/config.rb",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/build/watch.sh",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/build/install.sh",
+		"/C/Users/Alberto/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/build/build.sh",
+		"/C/Users/Alberto/Git/dev360/app/controllers/ClientsController.php",
+		"/C/Users/Alberto/Git/dev360/app/helpers/table.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_coach.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_coach_storypanda.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_seat_storypanda.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_coach_thnk.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_seat_thnk.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/emails/invite_new_seat.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/routes.php",
+		"/C/Users/Alberto/Git/dev360/app/controllers/UserController.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/surveys.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/client_admin_form.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/dashboard.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/template_main_storypanda.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/template_main_mirror.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/profile.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/controllers/ProfileController.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/single_question_form.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/client_coach_form.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/views/forms/test/invite_form.blade.php",
+		"/C/Users/Alberto/Git/dev360/app/controllers/DashboardController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/ClientsController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_new_seat.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_general.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/UserController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/vendor/anouar/fpdf/src/Anouar/Fpdf/Fpdf.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/vendor/tecnick.com/tcpdf/tcpdf.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/TestController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/PdfController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/helpers/fullPdfGenerator.php",
+		"/C/Users/Alberto/Desktop/fullPdfGenerator_BKP_LAST_NOTWORKING.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/helpers/mypdf.php",
+		"/C/Users/Alberto/Desktop/Box BKP/4.9 Development folder - Alberto/4.9.1 360 Mirror/4.9.1.4 Migration Scripts/user.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/respondent_form_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/respondent_form.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/respondent_form_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/step_form.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/step_form_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/template_main_mirror.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/thanks_form_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/Test.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/helpers/selfPdfGenerator.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/helpers/stats.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/helpers/table.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/public_html/media/css/global.css",
+		"/C/Users/Alberto/Desktop/stats.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/thanks_form.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/routes.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/dashboard.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/innovationleadership/public_html/wp-content/themes/knowledgebase-child/style.css_notMini.css",
+		"/C/Users/Alberto/Box Sync/Git/innovationleadership/public_html/wp-content/themes/knowledgebase-child/style.css",
+		"/C/Users/Alberto/Desktop/BKP_WORKING_TestController.php",
+		"/C/Users/Alberto/Desktop/TestController_BAD.php",
+		"/C/Users/Alberto/Desktop/TestController_WORKING.php",
+		"/C/Users/Alberto/Desktop/TestController_NOTWORKING.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/thanks_form.blade_thnk.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/view_text.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/not_allowed.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/Respondent.php",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.8 Innovation Leadership/server/.htaccess",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.7 LNK/temp subdomains/index.html",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.6 Start Scaling/bkp funciones.php",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.1 360 Mirror/4.9.1.0 Old Mirror Project/4.9.1.0.3 Spam Filters/test.php",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.1 360 Mirror/4.9.1.0 Old Mirror Project/4.9.1.0.3 Spam Filters/email.php",
+		"/C/Users/Alberto/Box Sync/4 THNK Online/4.9 Development folder - Alberto/4.9.3 Idea Jackpot/old/testing.php",
+		"/C/Users/Alberto/Desktop/old_edits_pdf_bkp.php",
+		"/C/Users/Alberto/Desktop/new_edits_pdf_bkp.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/DashboardController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/ProfileController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/email_template.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/controllers/RemindersController.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/all_finished.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_remind_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_remind_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_remind.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/login_form_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/login_form_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_reset_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_reset.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/password_reset_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/login_form.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/template_main_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/template_main_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/respondent_finished_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_reminder.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_reminder_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_participate_reminder_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_new_seat_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_new_seat_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_new_coach_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_general_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_general_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_custom_storypanda.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_custom_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/all_finished_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/email_template_thnk.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/auth/reminder.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/invite_form.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/template_main.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/emails/invite_custom.blade.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/Respondentgroup.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/views/forms/test/view_text_storypanda.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/Program.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/CategoryQuestionUserTest.php",
+		"/C/Users/Alberto/Box Sync/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/sass/style.scss",
+		"/C/Users/Alberto/Box Sync/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/sass/_program-landing.scss",
+		"/C/Users/Alberto/Box Sync/Git/sugarfree_svn/thnk.org/trunk/application/themes/thnk/assets/build/README.md",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/CategoryQuestionUser.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/app/models/User.php",
+		"/C/Users/Alberto/Box Sync/Git/dev360/public_html/media/javascript/jquery.validate.js",
+		"/C/Users/Alberto/Box Sync/Git/testing_sass/program-landing.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"<open files>",
+			"<project>",
+			"<open files>",
+			"<project>",
+			"C:\\Users\\Alberto\\Desktop\\application",
+			"<project>",
+			"C:\\Users\\Alberto\\Desktop\\application",
+			"<project>",
+			"C:\\Users\\Alberto\\Box Sync\\Git\\360mirror.org - prod.thnk.org\\domains",
+			"<project>",
+			"C:\\Users\\Alberto\\Desktop\\thnk\\domains\\mirror.thnk.org\\public_html",
+			"C:\\Users\\Alberto\\Desktop\\thnk\\domains\\mirror.thnk.org",
+			"C:\\Users\\Alberto\\Desktop\\thnk\\public_html",
+			"C:\\Users\\Alberto\\Desktop\\thnk",
+			"C:\\Users\\Alberto\\Desktop\\public_html\\wp-content\\themes\\knowledgebase-child",
+			"C:\\Users\\Alberto\\Desktop\\public_html",
+			"C:\\Users\\Alberto\\Desktop\\public_html\\wp-content\\themes\\knowledgebase-child",
+			"C:\\Users\\Alberto\\Desktop\\public_html",
+			"C:\\Users\\Alberto\\Desktop\\public_html\\wp-content\\themes\\knowledgebase-child",
+			"C:\\Users\\Alberto\\Desktop\\public_html",
+			"C:\\Users\\Alberto\\Desktop\\mirror",
+			"C:\\Users\\Alberto\\Desktop\\application",
+			"C:\\Users\\Alberto\\Desktop\\clues",
+			"C:\\Users\\Alberto\\Box Sync\\360 Mirror\\old_mirror\\mirror",
+			"C:\\Users\\Alberto\\Box Sync\\360 Mirror\\PDF template\\tcpdf_6_0_091\\tcpdf",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-webkit",
+			"top: ",
+			"program_options",
+			"survey_options",
+			"program_options",
+			".$user",
+			"security error",
+			";\n",
+			"groupby",
+			"->join",
+			"seat",
+			"new_seat",
+			"STORY",
+			"include_once",
+			"->Output",
+			"function Output",
+			"Output",
+			"legenda",
+			"//splitt",
+			";\n",
+			"takeBarsColor",
+			"co-worker",
+			"respondent_form",
+			"Please provide additional information (e.g. examples)",
+			"step_form",
+			"$message->to($user->email",
+			"Mail::send",
+			"$message->to($user->email,",
+			"calcStDeviation",
+			"firstPages",
+			"require_once",
+			"_once",
+			"deviation",
+			"fullReport",
+			"finish",
+			";\n",
+			"size32",
+			"custom-images",
+			"get",
+			"feed",
+			"get",
+			"feedback/thanks/thnk",
+			"getThanksRespondent",
+			"feedback/thanks",
+			"feedback",
+			"/feedback/thanks",
+			"getThanksRespondent",
+			"thanks_form",
+			"1394",
+			"1",
+			"logout",
+			"id = 1394",
+			"blanco",
+			"lastPages",
+			"lasPages",
+			"firstPages",
+			"blanco",
+			"1394",
+			"blanco",
+			"respondent_fini",
+			"respondent_finished",
+			"invite_reminder",
+			"invite_participate",
+			"invite_new_seat",
+			"invite_new_coach",
+			"invite_general",
+			"$client_id",
+			"invite_custom",
+			"email_template",
+			"all_finished",
+			"password_remind",
+			"rtrim",
+			"User::find",
+			"input::",
+			"->join",
+			"DB::",
+			"reminder",
+			"png",
+			"contentCntr",
+			"mail",
+			"Congratulations! You have finished the test!",
+			"getThanksRespondent",
+			"thanks_form",
+			"Congratulations! You have finished the test!",
+			"create_test",
+			"$loggedInUser",
+			"invite_form",
+			"$user",
+			"Auth",
+			"invite_form",
+			"console",
+			"reached",
+			"subordinate",
+			"console",
+			"text_email_row",
+			"minimum_required",
+			"minimum_required\nminimum_required",
+			"$minimum_required",
+			"minimum_required",
+			"getViewText",
+			"fancybox-inner",
+			"view_text",
+			".end",
+			"end",
+			"end\nend",
+			"end",
+			"profileBoxInvite",
+			"superior",
+			"Subordinate",
+			"Dear",
+			"THNKParticipant",
+			"program_option",
+			"program_options",
+			"program",
+			"progress",
+			"choose one",
+			"chose one",
+			"progress",
+			"choose one",
+			"error",
+			"Required field",
+			"<?",
+			"commentfield",
+			" rules: {",
+			"Please choose one.",
+			"PL",
+			"split_res",
+			"split"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$no_split_resp",
+			"THNK_",
+			"hasRoleInClient(Role::USER_PARTICIPANT,",
+			"hasRoleInClient(Role::USER_CLIENT_COACH,",
+			"hasRoleInClient(Role::USER_CLIENT_ADMIN,",
+			"hasRoleInClient(Role::USER_CLIENT,",
+			"hasRoleInClient",
+			"THNKprogram",
+			"THNKParticipant",
+			"THNK",
+			"<?php ",
+			"<?php",
+			"') }}</label> @endif",
+			"<label class=\"error\">",
+			"user_id",
+			"client_id",
+			"THNK_countries",
+			"id",
+			"countries",
+			"p",
+			"class=\"field required\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 200.0
+	},
+	"project": "udacity-html5-gamedev.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 377.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

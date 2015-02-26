@@ -1,0 +1,28 @@
+<html>
+	<head>
+	</head>
+	<body id="body">
+		<form action="javascript:void(0);" id="exampleForm">
+			<input type="password" id="examplePass" />
+			<input type="submit" />
+		</form>
+	</body>
+	<script>
+		document.getElementById("exampleForm").onsubmit = function(){
+			//To check a password between 8 to 15 characters which contain at least one lowercase letter, one uppercase letter, one numeric digit, and one special character
+			var passwordRegex = /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[^a-zA-Z0-9])(?!.*\s).{8,15}$/;
+
+			if(!passwordRegex.test(document.getElementById("examplePass").value)){
+				console.log("Regex didn't match");
+				var notify = document.getElementById("notify");
+				if(notify === null){
+					notify = document.createElement("p");
+					notify.textContent = "Password need to be between 8 to 15 characters which contain at least one lowercase letter, one uppercase letter, one numeric digit, and one special character."
+					notify.id = "notify";
+					var body = document.getElementById("body");
+					body.appendChild(notify);
+				}
+			}
+		};
+	</script>
+</html>
