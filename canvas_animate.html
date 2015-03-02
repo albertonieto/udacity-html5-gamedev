@@ -1,0 +1,67 @@
+<body id="body">
+</body>
+<script>
+	var body = null;
+	var canvas = null
+	var ctx = null;
+	var img = null;
+	var assets = ['media/img/robowalk00.png',
+	              'media/img/robowalk01.png',
+	              'media/img/robowalk02.png',
+	              'media/img/robowalk03.png',
+	              'media/img/robowalk04.png',
+	              'media/img/robowalk05.png',
+	              'media/img/robowalk06.png',
+	              'media/img/robowalk07.png',
+	              'media/img/robowalk08.png',
+	              'media/img/robowalk09.png',
+	              'media/img/robowalk10.png',
+	              'media/img/robowalk11.png',
+	              'media/img/robowalk12.png',
+	              'media/img/robowalk13.png',
+	              'media/img/robowalk14.png',
+	              'media/img/robowalk15.png',
+	              'media/img/robowalk16.png',
+	              'media/img/robowalk17.png',
+	              'media/img/robowalk18.png'
+	             ];
+	var frames = [];
+	var pos = 0;
+
+	var onImageLoad = function(){
+	    console.log('The image has been loaded.');
+	};
+
+	var setup = function(){
+	    body = document.getElementById('body');
+	    canvas = document.createElement('canvas');
+
+	    ctx = canvas.getContext('2d');
+
+	    canvas.width = 100;
+	    canvas.height = 100;
+
+	    body.appendChild(canvas);
+
+	    for(var i = 0; i < assets.length; i++){
+	        img = new Image();
+	        img.onload = onImageLoad;
+	        img.src = assets[i];
+	        frames[i] = img;
+	    }
+
+	    setInterval(animate, 30);
+	};
+
+	var animate = function(){
+	    if(pos == frames.length){
+	    	pos = 0;
+	    }
+
+	    ctx.clearRect(0,0,canvas.width, canvas.height);
+	    ctx.drawImage(frames[pos], 0, 0);
+	    pos++;
+	};
+
+	setup();
+</script>

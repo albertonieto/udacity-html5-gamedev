@@ -1,0 +1,32 @@
+<body id="body">
+</body>
+<script>
+	var body = null;
+	var canvas = null
+	var ctx = null;
+	var img = null;
+
+
+	setup = function() {
+		body = document.getElementById('body');
+		canvas = document.createElement('canvas');
+
+		ctx = canvas.getContext('2d');
+
+		canvas.width = window.innerWidth;
+		canvas.height = window.innerHeight;
+
+		body.appendChild(canvas);
+
+		img = new Image();
+		img.onload = onImageLoad;
+		img.src = "media/img/ralphyrobot.png";
+	};
+
+	onImageLoad = function(){
+		console.log('The image has been loaded.');
+		ctx.drawImage(img,100,100);
+	};
+
+	setup();
+</script>
